@@ -49,3 +49,8 @@ This README has been improved in the documentation branch for Git practice.
 This repository is used to practise Git branching and documentation updates.
 
 ---
+
+## Notes
+This README was updated multiple times to demonstrate version control workflow
+
+---
