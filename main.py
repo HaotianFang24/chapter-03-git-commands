@@ -1,5 +1,11 @@
-def calc(a,b,c):
-    sum_value = a+b
-    y= x*c
+def calculate_result(a, b, c):
+    # Add the first two numbers
+    sum_value = a + b
 
-print(clac(2,3,4))
+    # Multiply the sum by the third number
+    result = sum_value * c
+
+    return result
+
+
+print(calculate_result(2, 3, 4))
