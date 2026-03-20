@@ -37,3 +37,5 @@ This project was completed as part of the AI in Software Engineering module at X
 References:
 - Git documentation: https://git-scm.com/docs  
 - GitHub documentation: https://docs.github.com  
+## Update 1
+This README has been improved in the documentation branch for Git practice.
